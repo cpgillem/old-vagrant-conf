@@ -11,13 +11,13 @@ To run this project as-is, run `vagrant up` and go to `http://localhost:8080` in
 ## Usage in a project
 1. Copy over Vagrantfile and bootstrap.sh.
    ```bash
-   cp Vagrantfile project_path/
-   cp bootstrap.sh project_path/
+   $ cp Vagrantfile project_path/
+   $ cp bootstrap.sh project_path/
    ```
 
 2. Change to the directory of your project.
    ```bash
-   cd project_path
+   $ cd project_path
    ```
 
 2. Run `vagrant up`.
