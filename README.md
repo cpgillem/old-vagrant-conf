@@ -1,8 +1,13 @@
 # old-vagrant-conf
 A vagrant LAMP configuration for Laravel given specific server requirements.
 
-# Setup
+# Information
+- MySQL Root Password: `root`
+- OS: Ubuntu 16.04
+- PHP Version: 5.6.30
+- Mysql Version: 14.14
 
+# Setup
 Before starting, make sure [Vagrant](https://www.vagrantup.com/) is installed, along with a VM hypervisor such as Virtualbox.
 
 ## Test Run
